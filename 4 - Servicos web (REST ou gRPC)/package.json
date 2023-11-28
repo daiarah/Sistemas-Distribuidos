@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "eventsource": "^2.0.2",
+    "uuid": "^9.0.0"
+  }
+}
